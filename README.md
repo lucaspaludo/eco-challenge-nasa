@@ -14,11 +14,11 @@ The player's experience will begin by clicking on the start button and by allowi
 
 In this game, choices are vital for coexistence between human beings and the environment. Let's take this journey together towards a more sustainable neighborhood!
 
-#LINK TO PROJECT DEMO
+# LINK TO PROJECT DEMO
 Demo game version link. Select the character on the right, then choose 'Maia - Guarulhos.' Walk on the green carpet to continue playing.
 https://gx.games/games/hyjl0f/eco-challenge/tracks/9776fb57-9fd3-4923-a8e9-e631449e4eaf
 
-#LINK TO FINAL PROJECT
+# LINK TO FINAL PROJECT
 https://youtu.be/-HiRWnNXJT4 
 
 # RESOURCES
