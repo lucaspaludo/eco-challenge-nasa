@@ -1,1 +1,1 @@
-Link para o repositório do jogo: https://github.com/ArthurSoaresTuti/Eco-Challenge-Game/tree/master
+Link to the game repository: https://github.com/ArthurSoaresTuti/Eco-Challenge-Game/tree/master
