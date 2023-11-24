@@ -3,7 +3,7 @@ import requests
 from matplotlib.animation import FuncAnimation
 
 #-----LOCATION INFORMATION-----
-API_KEY = 'd06a98ce19472ba94a76d6d111e16d4d' #This api key will be deleted later, you can use it now to test data acquisition
+API_KEY = '<your API key>' #This api key will be deleted later, you can use it now to test data acquisition
 #city = 'guarulhos'
 lat = -23.453761327559913
 lon = -46.53051244930775
